@@ -12,4 +12,6 @@
 
 **数学关联：**排序、累积数量、价差、成交均价和滑点计算；更深入的分析涉及概率、风险和市场微观结构。
 
+流动性指标详解：[买卖价差与订单簿深度](../concepts/market-microstructure/liquidity-and-execution/spread-and-order-book-depth.md)。
+
 返回[市场机制分类](README.md)。
