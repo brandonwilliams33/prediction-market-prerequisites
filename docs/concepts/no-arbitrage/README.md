@@ -4,6 +4,7 @@
 
 - [凸包（Convex Hull）](convex-hull.md)：描述无摩擦条件下可由结果状态概率加权得到的价格向量集合。
 - [套利空间（Arbitrage Region）](arbitrage-region.md)：描述无套利价格集合之外的报价，以及实际执行时需要检查的限制。
+- [数学符号约定（Mathematical Notation）](mathematical-notation.md)：定义状态、合约、支付、持仓和无套利价格集合等符号，便于阅读本分类中的模型。
 
 若要量化价格向量偏离无套利集合的程度，可参见数学前置中的[曼哈顿距离（L1 距离）](../../math-prerequisites/geometry-and-optimization/manhattan-distance.md)。几何距离用于衡量偏离，不直接等同于套利利润。
 
