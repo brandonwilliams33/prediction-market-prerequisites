@@ -13,4 +13,8 @@ LMSR（Logarithmic Market Scoring Rule）是一种自动做市机制。它通过
 - LMSR 可在无需等待对手方提交匹配订单的情况下提供报价，但这不代表现实实现没有费用、资金、合约或结算风险。
 - 其最坏损失界限来自指定的成本函数和结算支付假设，不自动覆盖部署、预言机或运营风险。
 
+## 其他做市定价方法
+
+[基于效用的做市商](../utility-based-market-maker.md)根据主观状态概率和边际效用调整状态价格；与 LMSR 的成本函数定价及其 `b ln(n)` 上界不同，其报价和损失界限依赖效用模型、财富与概率假设。
+
 相关数学：[对数评分规则](../../math-prerequisites/forecast-evaluation/logarithmic-scoring-rule.md) · [数学前置总览](../../math-prerequisites/README.md)
