@@ -15,6 +15,7 @@
 
 ## 数学主题
 
+- [预测评估与评分规则](forecast-evaluation/README.md)：评估概率预测的校准性与质量，包括 Brier 分数和对数评分规则。
 - [几何与优化](geometry-and-optimization/README.md)：向量距离、凸集及约束优化；包括衡量价格向量偏离无套利集合的 L1 距离。
 
 ## 1. 基础工具
